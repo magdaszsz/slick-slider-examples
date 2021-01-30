@@ -1,25 +1,21 @@
-/* 
 
-.post {
-  height: 300px;
-  width: 100%;
-  display: inline-block;
-  margin: 10px;
-  border: 2px solid red;
-
+.slider {
+    width: 650px;
+    margin: 0 auto;
 }
 
-
-.horizontal {
-  height: 500px;
-
-  border: 2px solid black;
-  overflow: hidden;
-  width: 600px;
-  margin: 0 auto;
+.post {
+    height: 200px;
+    margin: 5px;
 }
 
 img {
   width: 100%;
-  object-fit: contain;
-} */
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: lightgrey;
+}
+
