@@ -18,4 +18,39 @@ body {
   margin: 0;
   background: lightgrey;
 }
+/* fading slider */
+.fading-slider {
+  width: 500px;
+  margin: 0 auto;
+  position: relative;
+}
+
+
+/* syncing slider */
+h1 {
+  text-align: center;
+}
+
+
+.row {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+.slider-for {
+  height: 50%;
+}
+
+.slider-for img {
+  height: 500px;
+}
+
+.slider-nav img {
+  height: 250px;
+}
+
+
 
